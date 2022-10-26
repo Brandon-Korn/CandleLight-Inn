@@ -1,0 +1,17 @@
+15|15
+
+o|o|o|o|o|o|o|o|o|o|o|o|o|o|o
+o|x|x|x|x|o|o|o|o|o|x|x|x|o|o
+o|x|o|o|x|x|x|e|o|o|x|o|x|o|o
+o|x|x|o|x|o|o|o|o|x|x|o|x|o|o
+o|x|o|o|x|o|o|x|o|x|o|o|x|o|o
+o|x|o|x|x|x|x|x|x|x|o|o|x|o|o
+o|x|m|x|x|o|o|x|o|o|x|x|x|o|o
+o|x|o|x|x|o|o|x|o|o|o|x|x|o|o
+o|x|o|o|x|x|x|m|x|o|o|x|x|o|o
+o|x|o|o|o|o|o|x|o|o|o|x|o|o|o
+o|x|x|x|o|o|o|c|o|o|o|x|o|o|o
+o|x|o|x|o|x|x|x|x|x|x|x|x|b|o
+o|x|o|x|o|x|o|x|o|o|o|o|o|o|o
+o|k|o|b|o|x|o|p|x|x|x|x|x|x|o
+o|o|o|o|o|o|o|o|o|o|o|o|o|o|o
